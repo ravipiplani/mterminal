@@ -1,0 +1,24 @@
+version: 0.2
+phases:
+  install:
+    runtime-versions:
+      android: 29
+      java: openjdk8
+    commands:
+      - pwd
+  pre_build:
+    commands:
+      - echo Pre Build started on `date`
+  build:
+    commands:
+      - echo Build started on `date`
+      - flutter build web
+      - ls -al
+  post_build:
+    commands:
+      - echo Build completed on `date`
+artifacts:
+  base-directory: build/web
+  files:
+    - '**/*'
+  discard-paths: no

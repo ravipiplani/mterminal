@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "166361355273",
+    "project_id": "m-terminal",
+    "storage_bucket": "m-terminal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166361355273:android:2734c9d233f08e4a3f94d8",
+        "android_client_info": {
+          "package_name": "com.mayavi.mterminal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166361355273-i2023cpkkj4hn0ig98tlm2ua74i901fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZYesneA1Cj0aNyaLLDpJsXk-ZGM3mthg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166361355273-i2023cpkkj4hn0ig98tlm2ua74i901fi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "166361355273-jnd81d24q1trdfibg77ohom436613h04.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mayavi.mterminal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
