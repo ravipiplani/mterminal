@@ -83,7 +83,3 @@ We welcome contributions to improve MTerminal! Here's how you can get involved:
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and commit them.
 4. Submit a pull request with a clear explanation of what you've done.
-
-### License
-
-MTerminal is open-source software released under the [MIT License](LICENSE).
